@@ -20,7 +20,7 @@ cd backend
 ```bash
 go mod init github.com/Ramnarong06/SE_PreLabTest2_2
 go get -u gorm.io/gorm
-go get -u github.com/asaskavich/govalidator
+go get -u github.com/asaskevich/govalidator
 go get -u github.com/onsi/gomega
 ```
 
